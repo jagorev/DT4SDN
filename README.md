@@ -1,14 +1,30 @@
+<a id="top"></a>
+
 # Digital Twin for Software Defined Networks (DT4SDN)
 
 ---
 <div align="center">
 
-![License](https://img.shields.io/github/license/MattDema/Networking_DT4SDN?style=for-the-badge&logoSize=auto&labelColor=blue&color=black)  ![Version](https://img.shields.io/badge/v2.5-RELEASE?style=for-the-badge&label=DT4SDN&labelColor=cyan&color=black)  ![Stars](https://img.shields.io/github/stars/MattDema/Networking_DT4SDN?style=for-the-badge&logo=github&logoColor=black&logoSize=auto&labelColor=gold&color=black)  ![Contributors](https://img.shields.io/github/contributors/MattDema/Networking_DT4SDN?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&label=contributors&labelColor=green&color=black)  ![Issues](https://img.shields.io/github/issues/MattDema/Networking_DT4SDN?style=for-the-badge&logoSize=auto&label=Issues&labelColor=red&color=black)  ![Repo Size](https://img.shields.io/github/repo-size/MattDema/Networking_DT4SDN?style=for-the-badge&labelColor=purple&color=black)  
+![Version](https://img.shields.io/badge/version-2.5.0-2563EB?style=for-the-badge)
+[![Stars](https://img.shields.io/github/stars/MattDema/Networking_DT4SDN?style=for-the-badge&logo=github&label=Stars)](https://github.com/MattDema/Networking_DT4SDN/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/MattDema/Networking_DT4SDN?style=for-the-badge)](https://github.com/MattDema/Networking_DT4SDN/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/MattDema/Networking_DT4SDN?style=for-the-badge)](https://github.com/MattDema/Networking_DT4SDN/forks)
+[![Issues](https://img.shields.io/github/issues/MattDema/Networking_DT4SDN?style=for-the-badge)](https://github.com/MattDema/Networking_DT4SDN/issues)
+![Repository Size](https://img.shields.io/github/repo-size/MattDema/Networking_DT4SDN?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/MattDema/Networking_DT4SDN?style=for-the-badge)
+![License](https://img.shields.io/github/license/MattDema/Networking_DT4SDN?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![Course](https://img.shields.io/badge/course-Networking%20II-0F766E?style=for-the-badge)
+![Focus](https://img.shields.io/badge/focus-SDN%20Digital%20Twin-7C3AED?style=for-the-badge)
 
 </div>
 ---
 
-***Prof. <a href="https://webapps.unitn.it/du/it/Persona/PER0003067/Didattica">Granelli Fabrizio</a>***
+***Prof. <a href="https://webapps.unitn.it/du/it/Persona/PER0003067/Didattica">Fabrizio Granelli</a>***
 
 **Group**: ***<u>De Marco Matthew</u>***, ***<u>Lo Iacono Andrea</u>***, ***<u>Revrenna Jago</u>***
 
@@ -371,11 +387,13 @@ Networking_DT4SDN/
 
 ---
 
-- [Matthew De Marco](https://github.com/MattDema) ([matthew.demarco@studenti.unitn.it](mailto:matthew.demarco@studenti.unitn.it))
+| Team member | GitHub | LinkedIn | Email |
+| --- | --- | --- | --- |
+| Matthew De Marco | [@MattDema](https://github.com/MattDema) | [Matthew De Marco](https://www.linkedin.com/in/matt-de-marco/) | [matthew.demarco@studenti.unitn.it](mailto:matthew.demarco@studenti.unitn.it) |
+| Andrea Lo Iacono | [@ADreLOI](https://github.com/ADreLOI) | [Andrea Lo Iacono](https://www.linkedin.com/in/adreloi) | [andrea.loiacono@studenti.unitn.it](mailto:andrea.loiacono@studenti.unitn.it) |
+| Jago Revrenna | [@jagorev](https://github.com/jagorev) | [Jago Revrenna](https://www.linkedin.com/in/jagorevrenna) | [jago.revrenna@studenti.unitn.it](mailto:jago.revrenna@studenti.unitn.it) |
 
-- [Andrea Lo Iacono](https://github.com/ADreLOI) ([andrea.loiacono@studenti.unitn.it](mailto:andrea.loiacono@studenti.unitn.it))
-
-- [Jago Revrenna](https://github.com/JagoRev) ([jago.revrenna@studenti.unitn.it](mailto:jago.revrenna@studenti.unitn.it))
+> LinkedIn profile links are included only when confirmed, so the README never directs visitors to the wrong person.
 
 <!--=========================================================================-->
 
@@ -410,7 +428,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <a href="#digital-twin-for-software-defined-networks-dt4sdn" style="text-decoration: none;">
+  <a href="#top" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/up.png" alt="Back to Top" width="40" height="40"/>
     <br>
     <strong>Back to Top</strong>
